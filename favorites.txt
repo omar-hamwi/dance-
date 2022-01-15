@@ -1,3 +1,6 @@
 chiken 
 soup 
 carrot
+banana
+rice 
+nodel
